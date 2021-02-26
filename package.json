@@ -1,0 +1,24 @@
+{
+  "name": "mailnuggets",
+  "version": "0.0.0",
+  "description": "MailNuggets Api Client",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "mailnuggets",
+    "mail",
+    "api",
+    "client"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "fast-xml-parser": "^3.18.0"
+  },
+  "devDependencies": {
+    "dotenv": "^8.2.0"
+  }
+}
