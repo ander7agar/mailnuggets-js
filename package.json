@@ -12,7 +12,7 @@
     "api",
     "client"
   ],
-  "author": "",
+  "author": "Andersson Acosta",
   "license": "MIT",
   "dependencies": {
     "axios": "^0.21.1",

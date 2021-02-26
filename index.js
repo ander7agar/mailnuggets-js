@@ -86,7 +86,7 @@ class MailNuggets {
         return this.__exec('remove', { THROWAWAYNAME: throwawayName});
     }
 
-    listEmail(emaiId = null) {
+    listEmails(emaiId = null) {
         return this.__exec('listemails', { EMAILID: emaiId});
     }
 
