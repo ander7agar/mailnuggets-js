@@ -1,6 +1,10 @@
 # MailNuggets Api Client
 Api Client Wrapper for MailNuggets service 
 
+## Status
+![Version](https://img.shields.io/npm/v/mailnuggets.svg?style=flat&logo=npm)
+![License](https://img.shields.io/npm/l/mailnuggets)
+
 ### Installation
 ```shell
 npm install mailnuggets
